@@ -75,12 +75,12 @@ body {
     background-position: top 10px right 110px;
 }
 
-.card--bg-gary-blue {
+.card-bg-gary-blue {
     background: hsl(217, 19%, 35%);
     color: #fff;
 }
 
-.card--bg-black-blue {
+.card-bg-black-blue {
     background: hsl(219, 29%, 14%);
     color: #fff;
 }
